@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+table {
+  margin-top: 50px;
+}
+table .actions button:not(:last-child){
+  margin-right: 10px;
+}
